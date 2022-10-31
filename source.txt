@@ -1,0 +1,9 @@
+1K ~= 274ºC => 29726.85ºC <=> 2726.85ºC
+1 R ☉(solar radius) = 695,700Kms = 432,288 miles
+
+
+
+
+https://www.kaggle.com/datasets/deepu1109/star-dataset
+https://astrobackyard.com/types-of-stars/ - star color comparison image
+https://esahubble.org/images/opo0505b/ - star size comparison image
